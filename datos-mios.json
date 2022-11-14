@@ -1,0 +1,75 @@
+{
+  "Aldea": "Aldea Oculta entre la hoja",
+  "País": "Del fuego",
+  "Hokage": "Senju Tsunade",
+  "Clanes": [
+    {
+      "Uzumaki": {
+        "members": [
+          {
+            "name": "Uzumaki Naruto",
+            "elemento": "Aire",
+            "título": "Genin",
+            "estado": "Activo"
+          },
+          {
+            "name": "Uzumaki Kushina",
+            "elemento": "Aire",
+            "título": "Chunin",
+            "estado": "Fallecido"
+          },
+          {
+            "name": "Namikaze Minato",
+            "elemento": "Aire",
+            "título": "Hokage",
+            "estado": "Fallecido"
+          }
+        ]
+      },
+      "Uchiha": {
+        "members": [
+          {
+            "name": "Uchiha Itachi",
+            "elemento": "Fuego",
+            "título": "Anbu",
+            "estado": "Fallecido"
+          },
+          {
+            "name": "Uchiha Sasuke",
+            "elemento": "Fuego",
+            "título": "Genin",
+            "estado": "Activo"
+          },
+          {
+            "name": "Uchiha Madara",
+            "elemento": "Fuego",
+            "título": "Renegado",
+            "estado": "Fallecido"
+          }
+        ]
+      },
+      "Senju": {
+        "members": [
+          {
+            "name": "Senju Hashirama",
+            "elemento": "Madera",
+            "título": "Hokage",
+            "estado": "Fallecido"
+          },
+          {
+            "name": "Senju Tobirama",
+            "elemento": "Agua",
+            "título": "Hokage",
+            "estado": "Fallecido"
+          },
+          {
+            "name": "Senju Tsunade",
+            "elemento": "Médico",
+            "título": "Hokage",
+            "estado": "Activo"
+          }
+        ]
+      }
+    }
+  ]
+}
